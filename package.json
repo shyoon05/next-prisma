@@ -31,8 +31,8 @@
     "@prisma/client": "2.1.1",
     "emotion-theming": "10.0.27",
     "next": "12.1.0",
-    "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@prisma/cli": "2.1.1"
